@@ -1,2 +1,2 @@
-# akamai-network-security-threat-research
+# network-security-threat-research
 Akamai Network Security Threat Research
